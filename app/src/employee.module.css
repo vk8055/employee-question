@@ -1,0 +1,13 @@
+.employee {
+    background: white;
+    transition: box-shadow 0.1s ease-in;
+    padding: 1rem;
+}
+
+.name {
+    margin-top: 5px;
+}
+
+.employee:hover {
+    box-shadow: 1px 1px 3px #aaa;
+}
